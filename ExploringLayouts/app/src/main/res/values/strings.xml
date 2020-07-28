@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exploring Layouts</string>
+    <string name="descrptio_imageview">Cabeça do bonequinho do Android</string>
+    <string name="back_to_the_menu">Back to the menu</string>
+</resources>
